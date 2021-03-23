@@ -1,0 +1,1 @@
+Projeto de um jogo Web simples para colocar em prática os conhecimentos aprendidos de HTML, CSS e JavaScript até aqui.
